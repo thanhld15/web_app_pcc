@@ -6,8 +6,8 @@
 <p>The code in this repo has some minor change to adapt with Django version.</p>
 
 <p>To run this repo:</p>
-  <li>- Clone the repo to your computer </li>
-  <li>- Create and activate a virtual machine using pyvenv (Recommended) </li>
-  <li>- Install Django suitable for your Python version</li>
-  <li>- Open a terminal in the repo folder and run >> python manage.py runserver</li>
+  <li> Clone the repo to your computer </li>
+  <li> Create and activate a virtual machine using pyvenv (Recommended) </li>
+  <li> Install Django suitable for your Python version</li>
+  <li> Open a terminal in the repo folder and run >> python manage.py runserver</li>
 <p>Any other description of the Web Application can be found in the book.</p>
